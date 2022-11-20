@@ -1,4 +1,4 @@
 # CPSC-351-Virtual-Memory
 # Names:
-### Luis Alvarado
+### Luis Alvarado (luisalvarado@csu.fullerton.edu)
 ### Alejandro Ramos
